@@ -3,7 +3,7 @@
 <a href="#"><img width="28%" height="auto" align="right" src="Developer.gif" /></a>
 ## Hi there My name is Taofeek Ibraheem Olawale 
 
-## I'm a Tech Enthusiast!! </b>&nbsp;<img src=https://th.bing.com/th/id/R.23f9e51972fe6731471be14b2f945b20?rik=zmUifDdYziFzRg&pid=ImgRaw&r=0 width="14px">
+## I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://th.bing.com/th/id/R.23f9e51972fe6731471be14b2f945b20?rik=zmUifDdYziFzRg&pid=ImgRaw&r=0" width="14px">
 
 - 👨🏿‍💻  Full Stack Developer
 - 🇳🇬   Nigerian
