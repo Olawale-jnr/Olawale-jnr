@@ -3,13 +3,13 @@
 <a href="#"><img width="28%" height="auto" align="right" src="Developer.gif" /></a>
 ## Hi there My name is Taofeek Ibraheem Olawale 
 
-## I'm a Tech Enthusiast!!
+## I'm a Techie!!
 
 - 👨🏿‍💻  Full Stack Developer
 - 🇳🇬   Nigerian
 - 🌱 I’m currently learning Big Data and other Javascript frameworks
 - 😄 Pronoun: He, Him
-- 💬 Ask me about anything related to Angular, C#, R, SQL.
+- 💬 Ask me about anything related to Angular, C#, SQL, Javascript, Typescript.
 
 
 ## Connect with me  <img src="Handshake.gif" height="22px">
