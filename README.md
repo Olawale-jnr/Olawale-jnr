@@ -7,9 +7,9 @@
 
 - 👨🏿‍💻  Full Stack Developer
 - 🇳🇬   Nigerian
-- 🌱 I’m currently learning Big Data and other Javascript frameworks
+- 🌱 I’m currently learning Big Data and other Javascript frameworks (Gatsbyjs at the moment)
 - 😄 Pronoun: He, Him
-- 💬 Ask me about anything related to Angular, C#, SQL, Javascript, Typescript.
+- 💬 Ask me about anything related to MERN,Angular, C#, SQL, Javascript.
 
 
 ## Connect with me  <img src="Handshake.gif" height="22px">
