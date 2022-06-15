@@ -7,9 +7,9 @@
 
 - 👨🏿‍💻  Full Stack Developer
 - 🇳🇬   Nigerian
-- 🌱 I’m currently learning Big Data and other Javascript frameworks (Gatsbyjs at the moment)
+- 🌱 I’m currently learning Big Data, AI/ML
 - 😄 Pronoun: He, Him
-- 💬 Ask me about anything related to MERN,Angular, C#, SQL, Javascript.
+- 💬 Ask me about anything related to MERN,Angular, C#, SQL/Postgres, Javascript.
 
 
 ## Connect with me  <img src="Handshake.gif" height="22px">
@@ -48,8 +48,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/>  
 
 </td><td valign="top" width="33%">
 
